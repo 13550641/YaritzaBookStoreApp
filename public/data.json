@@ -1,0 +1,24 @@
+[
+	{
+		"id": "1",
+		"title": "The Boy in the Striped Pyjamas",
+		"author": "John Boyne",
+		"editorial": "Salamandra",
+		"description": "The novel begins in Germany in the 1940s. Bruno comes home from school to find the maid, Maria, packing his things because the family is moving away from Berlin.",
+		"img": "public/img/1.jpg"
+	},{
+		"id": "2",
+		"title": "Uncle Toms Cabin",
+		"author": "Harriet Beecher Stowe",
+		"editorial": "Harriet Beecher Stowe",
+		"description": "Is an anti-slavery novel by American author Harriet Beecher Stowe. Published in 1852, the novel helped lay the groundwork for the Civil War, according to Will Kaufman.",
+		"img": "public/img/2.jpg"
+	},{
+		"id": "3",
+		"title": "The 5 love languages",
+		"author": "Gary Chapman",
+		"editorial": "UNILIT",
+		"description": "The 5 Love Languages is as practical as it is insightful. Updated to reflect the complexities of relationships today, this new edition reveals intrinsic truths and applies relevant, actionable wisdom in ways that work.",
+		"img": "public/img/3.jpg"
+	}
+]
